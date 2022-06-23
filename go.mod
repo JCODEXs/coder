@@ -90,7 +90,7 @@ require (
 	github.com/ory/dockertest/v3 v3.9.1
 	github.com/pion/datachannel v1.5.2
 	github.com/pion/logging v0.2.2
-	github.com/pion/transport v0.13.0
+	github.com/pion/transport v0.13.1
 	github.com/pion/turn/v2 v2.0.8
 	github.com/pion/udp v0.1.1
 	github.com/pion/webrtc/v3 v3.1.41
@@ -115,7 +115,7 @@ require (
 	golang.org/x/net v0.0.0-20220607020251-c690dde0001d
 	golang.org/x/oauth2 v0.0.0-20220524215830-622c5d57e401
 	golang.org/x/sync v0.0.0-20220513210516-0976fa681c29
-	golang.org/x/sys v0.0.0-20220520151302-bc2c85ada10a
+	golang.org/x/sys v0.0.0-20220608164250-635b8c9b7f68
 	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211
 	golang.org/x/text v0.3.7
 	golang.org/x/tools v0.1.11

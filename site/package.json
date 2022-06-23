@@ -109,7 +109,7 @@
     "sql-formatter": "6.1.1",
     "style-loader": "3.3.1",
     "ts-jest": "27.1.4",
-    "ts-loader": "9.3.0",
+    "ts-loader": "9.3.1",
     "ts-node": "10.7.0",
     "typescript": "4.6.4",
     "webpack": "5.72.0",
